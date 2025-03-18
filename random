@@ -1,0 +1,10 @@
+in power bi, i have a calculated measure called monthly sales, the data generates from monthly computer price* quantity sold every month from jan 2024 to jan 2025. 
+
+You are a BI analyst. You have the following tasks:-
+1] I want to you to plot monthly sales on a visualization on power bi.
+2] I also want to calculate the difference of monthly sales to understand the profit and loss. 
+3] I want profit loss measure to be plotted on the same visualization. If there is profit then data value should be green, if there is loss then it should be red.
+4] All these measure must be in the same visualization. You must suggest different visualization that can be used to display these two measures effectively and easily.
+
+What if there are two different categories of computer ? Then how to show it?
+Can you give visual examples.?
